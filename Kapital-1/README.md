@@ -177,6 +177,7 @@ man isst, und konzentriert sich auf den `Geschmack`. Sehr spannend! Wir haben na
 
 #### Neue Worter
 - schon mal - already
+> Hast du schon mal Indisch gegessen?
 - Kursleiter - (kurs -> Course, Leiter -> Leader) -> Course Leader
 - stritten - (gestritten) -> to argue
 - der Löffel, die Löffel
@@ -191,3 +192,9 @@ man isst, und konzentriert sich auf den `Geschmack`. Sehr spannend! Wir haben na
 
 > Rules - When a word has 'a' in it and it is short, in plural we add 'ä' and e at the end
 > Z.B: (das Glas, Gläser), (das Hand, die Hände), (der Gast, die Gäste)
+
+Nicoletta Letzte Woche haben wir mi Kurs das Spiel „Lernen mit allen `Sinnen`" gemacht. Mir haben
+alle Stationen gut gefalen, weil es spannend war. Vieles habe ich nicht richtig geraten, aber 
+meine Nase funktioniert gut!
+
+> Sinnen - Senses.
